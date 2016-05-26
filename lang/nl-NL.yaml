@@ -1,0 +1,10 @@
+locale: nl
+phrases:
+    scenes:
+        TOMHistoricAndHeritage:
+            name: Historisch en Beschermd
+            group: Landschap
+            description: >
+                Deze kaart laat historische en officieel geregistreerde gebouwen
+                en landschappen zien.
+                Landschappen zijn zowel cultureel alswel natuur.
