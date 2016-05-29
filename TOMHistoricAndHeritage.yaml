@@ -45,7 +45,7 @@ styles:
 sources:
     mapzen:
         type: TopoJSON
-        url:  http://tiles.mountbatten.nl/all/{z}/{x}/{y}.topojson
+        url:  https://tiles.mountbatten.nl/all/{z}/{x}/{y}.topojson
 
 layers:
     earth:

@@ -28,7 +28,7 @@ define(['require', 'scene'],
           minzoom: 14,
           maxzoom: 22,
         });
-        return legend;
+        return Promise.resolve(legend);
       }
     };
     // Utility Functions (you can use them in your scenes maybe)
